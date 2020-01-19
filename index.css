@@ -1,0 +1,67 @@
+  * {
+    margin: 0;
+    padding: 0;
+    display: block;
+  }
+  
+  body {
+    border: 3px solid black;
+    padding: 30px;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+  }
+
+  /* header */
+  h1 {
+    
+  }
+
+  /* main */
+  main {
+    width: 100%;
+  }
+
+  h2 {
+    
+  }
+  
+  .container {
+    border-color: hsl(0, 0%, 50%);
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px;
+    width: 100%;
+    display: block;
+  }
+  
+  .color-panel {
+    display: inline-block;
+    width: 33%;
+    margin: 10px 3px;
+  }
+  
+  .container-header{
+    width: 50%;
+    margin: 5px auto;
+  }
+  
+  .color-label {
+    font-weight: bold;
+  }
+  
+  .color-hsl {
+    
+  }
+  
+  .color-description {
+    font-style: italic;
+  }
+
+  /* Specific Panels */
+  .black {
+
+  }
+
+  .gray {
+
+  }
